@@ -1,0 +1,5 @@
+# Compile on Mac 
+g++ -o learn_101 learn_101.cpp
+
+# Run on Mac
+./learn_101 
